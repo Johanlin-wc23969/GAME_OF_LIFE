@@ -3,15 +3,15 @@
 
 项目特色包括：
 
-模块化架构：分为 core, check, sdl, util, broker, awsNode 等模块
+- 模块化架构：分为 core, check, sdl, util, broker, awsNode 等模块
 
-高性能调度：通过 Goroutine 实现局部区域并行计算
+- 高性能调度：通过 Goroutine 实现局部区域并行计算
 
-分布式支持：具备节点分配、通信协议与结果聚合逻辑
+- 分布式支持：具备节点分配、通信协议与结果聚合逻辑
 
-完善测试体系：多个 _test.go 覆盖核心功能模块
+- 完善测试体系：多个 _test.go 覆盖核心功能模块
 
-数据分析与可视化：输出 CSV 与 Python 脚本 plot.py 用于性能评估图表生成
+- 数据分析与可视化：输出 CSV 与 Python 脚本 plot.py 用于性能评估图表生成
 
 ---
 
